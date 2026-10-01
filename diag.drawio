@@ -1,0 +1,79 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="pgwP1E7lRLla6EOcbTcF">
+    <mxGraphModel dx="2062" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-3" edge="1" parent="1" source="pIR0TJl8YFcw3oxYYdCD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pIR0TJl8YFcw3oxYYdCD-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;login&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-10" edge="1" parent="1" source="pIR0TJl8YFcw3oxYYdCD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pIR0TJl8YFcw3oxYYdCD-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-12" edge="1" parent="1" source="pIR0TJl8YFcw3oxYYdCD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pIR0TJl8YFcw3oxYYdCD-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-14" edge="1" parent="1" source="pIR0TJl8YFcw3oxYYdCD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pIR0TJl8YFcw3oxYYdCD-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Role check&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-18" edge="1" parent="1" source="pIR0TJl8YFcw3oxYYdCD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pIR0TJl8YFcw3oxYYdCD-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Manager&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-16" edge="1" parent="1" source="pIR0TJl8YFcw3oxYYdCD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pIR0TJl8YFcw3oxYYdCD-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;HR&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="75" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-21" edge="1" parent="1" source="pIR0TJl8YFcw3oxYYdCD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pIR0TJl8YFcw3oxYYdCD-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Employee&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;HR&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;HR Dashboard&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Manage Employee(Adding,deleting)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Configure Payroll(process the payroll, add the policy,add benifits)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Reports&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="375" x="-180" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Manager&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Manager Dashboard&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Leave Approval&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Notification&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="185" width="197.5" x="240" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Employee&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Employee Dashboard&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;View Payslip&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Apply Leave&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Personal Info&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="235" width="315" x="580" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-22" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Database&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="107.5" x="280" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-25" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="710" />
+            </Array>
+            <mxPoint x="155" y="710" as="sourcePoint" />
+            <mxPoint x="260" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-26" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.38;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" target="pIR0TJl8YFcw3oxYYdCD-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320.85" y="660" as="sourcePoint" />
+            <mxPoint x="370" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pIR0TJl8YFcw3oxYYdCD-27" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="525" y="710" as="sourcePoint" />
+            <mxPoint x="400" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
